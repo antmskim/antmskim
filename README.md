@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi, I'm Anthony!
 
 <!--
 **antmskim/antmskim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🧑🏻‍💻 Computer Science student at York University<br/>
+✍🏻 Currently working on data analytics & web developing
+👀 Learning SQL & C++
+
+<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antmskim&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
