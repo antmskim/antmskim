@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋🏻 Hi, I'm Anthony!
 🧑🏻‍💻 Computer Science student at York University<br>✍🏻 Currently working on data analytics & web developing<br>👀 Learning SQL & C++
 
 
