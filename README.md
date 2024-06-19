@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🧑🏻‍💻 Computer Science student at York University<br/>
-✍🏻 Currently working on data analytics & web developing
+✍🏻 Currently working on data analytics & web developing<br/>
 👀 Learning SQL & C++
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
